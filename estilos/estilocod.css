@@ -149,7 +149,7 @@ header {position:relative;
 
 /*********COLUMNAS*************/
 .tercios {margin-top:10px ;
-width:29%;
+width:33.3%;
 padding-right:2%;
 padding-left:2%;
 text-align:justify;
@@ -394,7 +394,7 @@ button.accordion.active:after {
   /************************************/
  /*****FOOTER - MAPA Y CONTACTO*******/
 /************************************/
-
+#contact{background-color: rgba(0, 0, 255, 0.500);}
 #mapa {
   padding:2%;}
 #mimapa {
